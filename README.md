@@ -3,7 +3,7 @@
 ## Hello, I'm Brandon Cook. Here's a little bit about me.
 
 My name is Brandon Cook, and I'm a current cybersecurity student at Athens State University. My passion for cybersecurity began in high school, where
-I joined the school's cyber team and competed in CTF events. We worked with tools and methodologies such as encryption, cryptography, steganography, 
+I joined my school's cyber team and competed in CTF events. We worked with tools and methodologies such as encryption, cryptography, steganography, 
 open source intelligence and more, which sparked my interest in pursuing cybersecurity as a career.
 
 | Project                             | Type        |    Link      |
