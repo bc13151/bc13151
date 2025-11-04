@@ -11,7 +11,7 @@ very proud of my accomplishments, and I hope I can prove my skills to you.
 |-----------------------------------------------|----------------------------|
 | Active Directory Project          |                    |
 | NIST Implementation               |                    |
-| N/A                               |                    |
+| Defending and Attacking Azure     |                    |
 | N/A                               |                    |
 | N/A                               |                    |
 | N/A                               |                    |
