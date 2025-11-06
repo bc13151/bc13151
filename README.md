@@ -12,7 +12,7 @@ I decided to document the projects I've worked on, and what I learned from them.
 |-----------------------------------------------|-------|---------------------|
 | Active Directory Project            | Project/Lab     |https://github.com/bc13151/Active-Directory-Lab                             |
 | NIST Implementation                 | Project/Lab     |  WIP               |
-| Defending and Attacking Azure       | Workshop/Writeup|https://github.com/bc13151/Defending-and-Attacking-Azure                    |
+| Defending and Attacking Azure       | Workshop/Writeup|https://github.com/bc13151/Defending-Attacking-Azure                    |
 
 ## Certifications
 I currently hold the CompTIA Security+ certification, proving baseline understanding of
